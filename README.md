@@ -34,22 +34,22 @@ It is a **PERFECT** game for everyone!
  My family,
  My brother (Cem Karakay),
  
-*  For Art:
+#### For Art:
  - Colored Spheres (athile)
  - Kenney (Puzzle Pack)
  - Click icon (icon8)
  - Background (bevouliin.com)
  
-*  For Sound Effects:
+#### For Sound Effects:
  - Failure 2 (Leszek_Szary)
  - Button Selected (StavSounds)
  - Grand Entrance Intro (metrostock99)
  - Removing a Cap from an Asthma Inhaler (Natty23)
  
-*  For Background Music:
+#### For Background Music:
  - Happy Arcade Tune (rezoner)
 
-*  OpenGameArt
-*  FreeSound
+#### OpenGameArt
+#### FreeSound
  
  
