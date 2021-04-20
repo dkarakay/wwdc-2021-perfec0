@@ -2,6 +2,12 @@
 
 This playground has been developed by Deniz Karakay for Swift Student Challenge 2021 🎉
 
+### Installation
+
+- Download the zip file 
+- Import it to Swift Playgrounds app (macOS version is recommended)
+- Have fun!
+
 ![](screenshot.png)
 
 ### Welcome to the Perfect0!
@@ -16,7 +22,7 @@ Perfect0 is a game to:
  
 It is a **PERFECT** game for everyone!
  
-###  HOW TO PLAY❓
+###  How to play❓
 *  👉🏻 Check remaining number on the bottom right, you need to decrease it to reach 0️⃣
 *  👉🏼 Remove undesirable numbers or operations by clicking them.
 * 👉🏽 Let one of the numbers or operations reach the ground. This becomes your operation.
@@ -30,7 +36,7 @@ It is a **PERFECT** game for everyone!
  
  Have fun becoming Perfect0! 
  
-###  THANKS TO 😊 
+###  Thanks to 😊 
  My family,
  My brother (Cem Karakay),
  
