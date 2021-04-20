@@ -1,6 +1,6 @@
 # WWDC 2021 - Perfect0
 
-This playground has been developed by Deniz Karakay for Swift Student Challenge 2021🎉
+This playground has been developed by Deniz Karakay for Swift Student Challenge 2021 🎉
 
 ![](screenshot.png)
 
