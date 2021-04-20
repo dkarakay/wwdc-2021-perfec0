@@ -37,8 +37,8 @@ It is a **PERFECT** game for everyone!
  Have fun becoming Perfect0! 
  
 ###  Thanks to 😊 
- My family,
- My brother (Cem Karakay),
+- My family,
+- My brother (Cem Karakay),
  
 #### For Art:
  - Colored Spheres (athile)
