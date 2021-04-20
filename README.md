@@ -24,7 +24,7 @@ It is a **PERFECT** game for everyone!
 * 👉🏿 Your operation result will be decreased from the remaining number.
 * 👉 Keep going until you reach perfect 0 🎉
  
-###  PLAY NOW ▶️:
+###  PLAY NOW ▶️ :
  Just click "Run My Code" button!
  To have a better performance, you should click "Run Options" button and disable "Enable results". 
  
